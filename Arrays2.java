@@ -13,6 +13,6 @@ public class Arrays2 {
           str[i] = in.next();
         }
         System.out.println(Arrays.toString(str));
-
+        System.out.println(Arrays.toString(str));
     }
 }
